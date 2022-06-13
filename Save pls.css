@@ -1,0 +1,22 @@
+body {
+	background-color:lightgoldenrodyellow;
+	color: #CDE7BE;
+	font-family: sans-serif;
+	}
+h1 {
+	text-align: center;
+	letter-spacing: 1px;
+	font-size: 40px;
+  }
+p {
+	font-size: 20px;
+  }
+img {
+	background-color: #EED2CC;
+	padding: 20px;
+	border: 10px solid blue;
+  }
+ol {
+	list-style-type: upper-roman;
+	font-size: 20px;
+  }
